@@ -1,0 +1,30 @@
+.seccion-datos{
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.h1{
+    padding-top: 25px;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+
+th{
+    border: 1px groove;
+    padding: 10px 30px 10px 30px;
+}
+
+td{
+    border: 1px groove;
+    padding: 10px 30px 10px 50px;
+}
+
+.parrafo-td{
+    font-size: 15px;
+}
+
+.imagen{
+    width: 60%;
+    height: 50%;
+    padding-top: 20px;
+}

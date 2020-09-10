@@ -1,0 +1,38 @@
+:root {
+  --headingFont:'Raleway', sans-serif;
+  --textFont:  'Roboto', sans-serif;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+} 
+html {
+  box-sizing: border-box;
+  height: 100%;
+  font-size: 65%; 
+}
+
+body {
+  margin: 0;
+
+}
+
+h1, h2 {
+  font-family: var(--headingFont);
+  font-weight: 900;
+  margin: 0 0 4rem 0;
+  text-align: center;
+  color: var(--gris2);
+}
+h1 span {
+  font-weight: 400;
+}
+h1 {
+  font-size: 3.6rem;
+}
+h2 {
+  font-size: 3rem;
+}
+h3{
+  font-size: 2.6rem;
+}
